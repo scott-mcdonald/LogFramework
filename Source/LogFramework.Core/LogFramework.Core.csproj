@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>LogFramework</RootNamespace>
+    <Authors>Scott McDonald</Authors>
+    <Copyright>Copyright © 2015–2019 Scott McDonald</Copyright>
+    <Product>LogFramework [Core]</Product>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/scott-mcdonald/LogFramework/master/License.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/scott-mcdonald/LogFramework</PackageProjectUrl>
+    <PackageTags>.net cross-platform logging facade framework</PackageTags>
+    <Description>LogFramework is a simple, cross-platform, and open source framework at the logging facade level of abstraction so application code can essentially be independent of any particular logging library/implementation.</Description>
   </PropertyGroup>
 
 </Project>

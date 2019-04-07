@@ -3,6 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>LogFramework</RootNamespace>
+    <Authors>Scott McDonald</Authors>
+    <Product>LogFramework [Microsoft.Extensions.Logging]</Product>
+    <Description>Microsoft.Extensions.Logging implementation for LogFramework's ILogger and ILoggerFactory abstractions.</Description>
+    <Copyright>Copyright © 2015–2019 Scott McDonald</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/scott-mcdonald/LogFramework/master/License.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/scott-mcdonald/LogFramework</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>

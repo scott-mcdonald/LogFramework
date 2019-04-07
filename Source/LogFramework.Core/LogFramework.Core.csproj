@@ -10,6 +10,8 @@
     <PackageProjectUrl>https://github.com/scott-mcdonald/LogFramework</PackageProjectUrl>
     <PackageTags>.net cross-platform logging facade framework</PackageTags>
     <Description>LogFramework is a simple, cross-platform, and open source framework at the logging facade level of abstraction so application code can essentially be independent of any particular logging library/implementation.</Description>
+    <RepositoryUrl>https://github.com/scott-mcdonald/LogFramework</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>

@@ -9,6 +9,9 @@
     <Copyright>Copyright © 2015–2019 Scott McDonald</Copyright>
     <PackageLicenseUrl>https://raw.githubusercontent.com/scott-mcdonald/LogFramework/master/License.md</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/scott-mcdonald/LogFramework</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/scott-mcdonald/LogFramework</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>serilog .net cross-platform logging facade framework</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

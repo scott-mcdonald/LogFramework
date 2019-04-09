@@ -12,6 +12,7 @@
     <Description>LogFramework is a simple, cross-platform, and open source framework at the logging facade level of abstraction so application code can essentially be independent of any particular logging library/implementation.</Description>
     <RepositoryUrl>https://github.com/scott-mcdonald/LogFramework</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageIconUrl>https://raw.githubusercontent.com/scott-mcdonald/LogFramework/master/LogoIcon.png</PackageIconUrl>
   </PropertyGroup>
 
 </Project>

@@ -12,6 +12,7 @@
     <RepositoryUrl>https://github.com/scott-mcdonald/LogFramework</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>nlog .net cross-platform logging facade framework</PackageTags>
+    <PackageIconUrl>https://raw.githubusercontent.com/scott-mcdonald/LogFramework/master/LogoIcon.png</PackageIconUrl>
   </PropertyGroup>
 
   <ItemGroup>
